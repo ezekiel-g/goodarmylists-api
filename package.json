@@ -1,5 +1,5 @@
 {
-    "name": "react-express-mysql-starter",
+    "name": "goodarmylists-api",
     "private": true,
     "homepage": ".",
     "proxy": "http://localhost:3001",
