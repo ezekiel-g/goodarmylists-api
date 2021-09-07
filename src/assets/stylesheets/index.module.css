@@ -1,0 +1,21 @@
+* { box-sizing: border-box; }
+
+html, body {
+	text-size-adjust: none;
+	-webkit-text-size-adjust: none;
+	-moz-text-size-adjust: none;
+	-ms-text-size-adjust: none;	
+}
+
+li { list-style-type: none }
+
+table {	table-layout: fixed; }
+
+.root-page-title {
+	text-align: center;
+	color: blue;
+}
+
+.root-page-component {
+	font-style: italic;
+}
